@@ -5,7 +5,7 @@ Collection of writeups and solutions for TryHackMe rooms.
 ## Rooms by Difficulty
 
 ### Easy (50 Rooms)
-- [Easy Room 1](./easy/easy-room-1/writeup.md)
+- [Linux Fundamentals Part 1](./easy/linux-fundamentals-part-1/writeup.md)
 - [Easy Room 2](./easy/easy-room-2/writeup.md)
 - [Easy Room 3](./easy/easy-room-3/writeup.md)
 - [Easy Room 4](./easy/easy-room-4/writeup.md)
