@@ -2,7 +2,8 @@
 This room is tailored for beginners stepping into the world of cybersecurity and ethical hacking, introducing basic navigation and terminal commands inside an in-browser Linux machine.
 
 
-Task 1: IntroductionOverview: A brief introduction to what you will learn in the room.
+Task 1: Introduction
+Overview: A brief introduction to what you will learn in the room.
 Question: Let's get started!
 Answer: No answer needed (Click 'Complete')
 
@@ -15,7 +16,8 @@ Answer: 1991
 
 Task 3: Interacting With Your First Linux Machine (In-Browser)
 Overview: Deploy the machine using the green "Start Machine" button to access the terminal directly in your browser.  
-Question: I've deployed my first Linux machine!  Answer: No answer needed
+Question: I've deployed my first Linux machine!  
+Answer: No answer needed
 
 
 Task 4: Running Your First few Commands
@@ -27,7 +29,8 @@ Answer: tryhackme
 
 
 Task 5: Interacting With the Filesystem!  
-Teaches core filesystem navigation commands:  ls: Lists files and directories.  cd: Changes directory.  cat: Outputs the content of a file.  pwd: Prints the working directory path.  Question 1: On the Linux machine that you deploy, how many folders are there?  
+Teaches core filesystem navigation commands:  ls: Lists files and directories.  cd: Changes directory.  cat: Outputs the content of a file.  pwd: Prints the working directory path.  
+Question 1: On the Linux machine that you deploy, how many folders are there?  
 Answer: 4  
 Question 2: Which directory contains a file?  
 Answer: folder4  
